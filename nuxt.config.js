@@ -4,12 +4,15 @@ export default {
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+  router: {
+    base: '/forprof/'
+  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'prof',
+    title: 'prof de sin',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'fr'
     },
     meta: [
       { charset: 'utf-8' },
