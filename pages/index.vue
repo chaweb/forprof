@@ -1,11 +1,11 @@
 <template lang="pug">
 .content
   h1 Merci pour tout ! 
-  p et comme dirait un grand sage : 
+  p Et comme dirait un grand sage 
   h2 "100% des gagnants ont tentés leur chance."
-  p donc tenter la votre 
-  p ˋ( ° ▽、° ) 
-  p Bon courage avec nos prédécesseurs
+  p donc tenter la votre.
+  p 🍀🍀
+  p Bon courage pour la suite !
 
 
 </template>
@@ -22,7 +22,9 @@ body, html, .content
   justify-content: center
 
 .content
+  width: 90vw
   text-align: justify
+  padding: 10px
 
 h1, h2
   font-family: 'Dosis', sans-serif
